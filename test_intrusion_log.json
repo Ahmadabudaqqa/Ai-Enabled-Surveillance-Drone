@@ -1,0 +1,109 @@
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:37.467575", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:37.761928", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:37.862446", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:38.551158", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:38.816360", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:39.017528", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T01:56:39.050730", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:39.751131", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T01:56:39.885467", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:41.043870", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:41.077400", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:41.177147", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:41.204529", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:41.318217", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:41.389297", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:41.511031", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:42.363850", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:43.778373", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:43.871490", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:43.901440", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:43.934543", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:45.117109", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:45.322897", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:45.780365", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:45.798398", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:45.830349", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:45.981638", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:46.012653", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:46.080350", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:46.111090", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:46.171519", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:46.201870", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:46.301531", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:46.368434", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:46.403473", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:46.534783", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:46.567856", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:46.603134", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T01:56:46.635487", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T01:56:47.422335", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:53.124522", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:53.379577", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:53.429597", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:53.982943", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:54.225145", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:54.422225", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T02:00:54.454609", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:54.929393", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T02:00:55.062880", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:56.105261", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:56.129353", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:56.223846", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:56.252893", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:56.278987", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:56.328957", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:56.428883", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:57.053157", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:58.178905", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:58.274732", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:58.303554", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:58.328883", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:58.908828", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:59.112178", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:59.545618", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:59.587145", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:59.624195", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:59.703867", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:59.743066", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:59.826742", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:59.862144", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:00:59.928829", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:00:59.969824", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:00.136783", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:00.225640", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:00.265871", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:00.426371", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:00.468251", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:00.506691", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:00.544076", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:01.128730", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:01.254515", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:01.398325", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:01.551772", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:02.805252", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T02:01:02.832985", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:03.328455", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:03.370470", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:03.678818", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:03.755959", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:03.973294", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:04.008475", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:05.262276", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:05.296652", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:07.064662", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:07.110416", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:07.699032", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:07.928739", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:07.977168", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:08.360467", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:08.400073", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:08.561636", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:08.600986", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:08.665383", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:08.928714", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:08.969927", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-21T02:01:09.128655", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-21T02:01:09.433072", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T02:02:15.112313", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-21T20:00:51.774496", "action": "TRIGGER_FIGHTING_DETECTION"}

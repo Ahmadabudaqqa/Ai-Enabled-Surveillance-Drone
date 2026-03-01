@@ -1,0 +1,1213 @@
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:05:59.939467", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:07.886736", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:06:10.433319", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:14.836696", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:06:15.196151", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:25.260023", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:06:26.709944", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:48.657796", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:06:48.993297", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:51.190776", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:06:51.569850", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:52.302992", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:06:53.009624", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:06:55.219067", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:02.269053", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:29.979086", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:31.093643", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:31.841756", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:32.218901", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:40.635493", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:41.024581", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:42.111426", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:42.191543", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:42.326692", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:42.448982", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:42.569292", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:42.703252", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:42.831692", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:42.953673", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:43.059563", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:43.237131", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:43.456066", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:43.504419", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:43.918600", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:43.984922", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:44.098278", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:44.155522", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:45.777308", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:45.886510", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:46.118259", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:46.250530", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:48.880895", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:07:48.925841", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:50.285030", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:50.337123", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:51.317258", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:51.418169", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:52.024784", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:52.074295", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:07:55.829179", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:07:55.896666", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:08:00.746883", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:08:00.799349", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:08:02.490012", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:08:02.834684", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:08:02.940240", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:08:03.505978", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:08:03.627531", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:08:04.055544", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:08:04.182403", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:24:15.594918", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:24:35.533525", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:26:58.216733", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:27:56.936819", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:28:28.368071", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:48.071362", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:48.518632", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:48.585223", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:49.387288", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:49.603475", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:49.851266", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:53:49.885981", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:50.486141", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:53:50.602481", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:51.917935", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:51.948038", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:52.087160", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:52.121530", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:52.151187", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:52.230159", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:52.351658", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:53.027224", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:55.171658", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:55.276368", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:55.319187", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:55.354342", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:56.195294", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:56.394873", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:56.815992", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:56.848386", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:56.884390", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:56.949702", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:56.995234", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:57.065124", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:57.104704", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:57.172336", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:57.206976", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:57.315784", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:57.395639", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:57.425081", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:57.608373", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:57.654980", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:57.700935", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:57.735735", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:58.388129", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:58.449032", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:58.541848", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:53:58.601773", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:53:59.667906", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:53:59.696763", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:00.301011", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:00.334677", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:00.771287", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:00.827746", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:01.093180", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:01.126396", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:02.915252", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:02.959691", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:05.376637", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:05.420040", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:06.350908", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:06.632113", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:06.692957", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:07.174148", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:07.234700", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:07.398713", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:07.453812", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:07.496809", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:07.851522", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:07.893747", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:54:08.124089", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:54:08.383034", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:43.784336", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:44.130300", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:44.184189", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:44.730239", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:44.884404", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:45.090466", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:57:45.110891", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:45.565979", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:57:45.660824", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:46.645385", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:46.667264", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:46.765081", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:46.780367", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:46.820443", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:46.866191", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:46.976164", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:47.363970", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:48.587120", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:48.653043", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:48.680294", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:48.705295", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:49.355619", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:49.486442", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:49.815035", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:49.837463", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:49.873225", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:49.898030", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:49.950326", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:49.988548", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:50.019063", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:50.062815", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:50.088442", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:50.167577", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:50.230298", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:50.257571", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:50.383396", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:50.402465", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:50.431143", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:50.451643", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:50.929229", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:50.965674", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:51.030172", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:51.071154", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:51.893755", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:57:51.913803", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:52.352956", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:52.372006", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:52.690439", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:52.730192", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:52.980206", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:53.010222", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:54.452388", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:54.482148", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:56.351261", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:56.368888", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:56.871223", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:56.970431", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:57.002333", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:57.203313", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:57.230059", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:57.300946", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:57.331288", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:57.350340", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:57.548118", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:57.566976", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T20:57:57.686201", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T20:57:57.812255", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T20:59:54.787435", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 3, "timestamp": "2026-02-18T21:01:32.660601", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:01:50.069954", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:03:23.383093", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:23.725029", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:03:23.757618", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:23.824194", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:23.853026", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:23.963536", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:03:23.974854", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:24.460741", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:24.524755", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:24.575203", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:24.591931", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:25.516009", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:25.534496", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:25.574000", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:03:25.593319", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:26.489503", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:26.566243", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:26.746030", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:03:26.801146", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:26.827339", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:26.957498", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:27.074169", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:27.095541", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:27.204095", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:27.223196", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:27.367186", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:27.404154", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:27.442146", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:03:27.474142", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:03:27.551768", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:03:27.569895", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:04:02.956724", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:03.333358", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:04:03.354014", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:03.423187", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:03.453086", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:03.569286", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:04:03.589049", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:04.090749", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:04.174018", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:04.207510", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:04.240655", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:05.177473", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:05.202885", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:05.243592", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:04:05.256740", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:06.195418", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:06.271585", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:06.455368", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:04:06.514141", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:06.550909", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:06.673400", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:06.794591", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:06.812974", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:06.923563", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:06.951390", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:07.109815", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:07.148974", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:07.188330", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:04:07.223165", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:04:07.303739", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:04:07.333353", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:08.225355", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:42.770821", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:43.149676", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:43.178938", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:43.250635", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:43.275540", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.25668200850486755, "timestamp": "2026-02-18T21:10:43.295235"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:43.387493", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:43.399553", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2662704288959503, "timestamp": "2026-02-18T21:10:43.427692"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.23407955467700958, "timestamp": "2026-02-18T21:10:43.865821"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6643222570419312, "timestamp": "2026-02-18T21:10:43.905298"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:43.923863", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:43.983819", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8649260401725769, "timestamp": "2026-02-18T21:10:44.014413"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:44.035806", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:44.054027", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9219837188720703, "timestamp": "2026-02-18T21:10:44.074583"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8797690272331238, "timestamp": "2026-02-18T21:10:44.113270"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8285419940948486, "timestamp": "2026-02-18T21:10:44.138903"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6753076314926147, "timestamp": "2026-02-18T21:10:44.191777"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6798373460769653, "timestamp": "2026-02-18T21:10:44.229943"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4049755930900574, "timestamp": "2026-02-18T21:10:44.271071"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.34383970499038696, "timestamp": "2026-02-18T21:10:44.448277"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5232298970222473, "timestamp": "2026-02-18T21:10:44.490972"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7943792939186096, "timestamp": "2026-02-18T21:10:44.535220"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7152974605560303, "timestamp": "2026-02-18T21:10:44.573599"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7589807510375977, "timestamp": "2026-02-18T21:10:44.614463"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8017976880073547, "timestamp": "2026-02-18T21:10:44.654188"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.843695878982544, "timestamp": "2026-02-18T21:10:44.693538"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9553451538085938, "timestamp": "2026-02-18T21:10:44.732758"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9562286734580994, "timestamp": "2026-02-18T21:10:44.771691"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9593044519424438, "timestamp": "2026-02-18T21:10:44.843986"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.958781361579895, "timestamp": "2026-02-18T21:10:44.882775"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9570704102516174, "timestamp": "2026-02-18T21:10:44.956097"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9493376016616821, "timestamp": "2026-02-18T21:10:44.983974"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9576236605644226, "timestamp": "2026-02-18T21:10:45.030432"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:45.049306", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:45.067355", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9514532089233398, "timestamp": "2026-02-18T21:10:45.089286"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:45.109200", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:45.127220", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9517236948013306, "timestamp": "2026-02-18T21:10:45.138435"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9556524157524109, "timestamp": "2026-02-18T21:10:45.183648"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9588817358016968, "timestamp": "2026-02-18T21:10:45.229926"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9584697484970093, "timestamp": "2026-02-18T21:10:45.269372"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9556284546852112, "timestamp": "2026-02-18T21:10:45.309990"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9569046497344971, "timestamp": "2026-02-18T21:10:45.348216"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9348757266998291, "timestamp": "2026-02-18T21:10:45.383702"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9138187766075134, "timestamp": "2026-02-18T21:10:45.426539"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9223796725273132, "timestamp": "2026-02-18T21:10:45.465043"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9529752135276794, "timestamp": "2026-02-18T21:10:45.502856"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9481160044670105, "timestamp": "2026-02-18T21:10:45.542475"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9469413757324219, "timestamp": "2026-02-18T21:10:45.581317"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9508437514305115, "timestamp": "2026-02-18T21:10:45.619203"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9479653835296631, "timestamp": "2026-02-18T21:10:45.660175"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.938407301902771, "timestamp": "2026-02-18T21:10:45.698069"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8536770343780518, "timestamp": "2026-02-18T21:10:45.739070"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9159538149833679, "timestamp": "2026-02-18T21:10:45.782529"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9592407941818237, "timestamp": "2026-02-18T21:10:45.822725"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9595656394958496, "timestamp": "2026-02-18T21:10:45.849342"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9595584869384766, "timestamp": "2026-02-18T21:10:45.899339"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9595645070075989, "timestamp": "2026-02-18T21:10:45.940727"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9582113027572632, "timestamp": "2026-02-18T21:10:45.982947"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9456768035888672, "timestamp": "2026-02-18T21:10:46.020699"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9421428442001343, "timestamp": "2026-02-18T21:10:46.049538"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:46.099387", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:46.185315", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:46.358091", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:46.415794", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:46.449618", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:46.573161", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8808306455612183, "timestamp": "2026-02-18T21:10:46.628821"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7961410880088806, "timestamp": "2026-02-18T21:10:46.667246"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:46.685437", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:46.700181", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6466566920280457, "timestamp": "2026-02-18T21:10:46.724288"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6855295896530151, "timestamp": "2026-02-18T21:10:46.749807"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7431446313858032, "timestamp": "2026-02-18T21:10:46.799436"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:46.820737", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:46.839197", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8256492018699646, "timestamp": "2026-02-18T21:10:46.859313"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6612593531608582, "timestamp": "2026-02-18T21:10:46.897677"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5471640825271606, "timestamp": "2026-02-18T21:10:46.945481"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5834978818893433, "timestamp": "2026-02-18T21:10:46.985078"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:47.002971", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:47.037774", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7800987958908081, "timestamp": "2026-02-18T21:10:47.055661"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:47.078687", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:10:47.116091", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8911584615707397, "timestamp": "2026-02-18T21:10:47.137586"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.904183030128479, "timestamp": "2026-02-18T21:10:47.175718"}
+{"type": "INTRUSION_ENDED", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "timestamp": "2026-02-18T21:10:47.187816", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 2, "timestamp": "2026-02-18T21:10:47.200531", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9430357813835144, "timestamp": "2026-02-18T21:10:47.237919"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9505830407142639, "timestamp": "2026-02-18T21:10:47.275756"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9563136100769043, "timestamp": "2026-02-18T21:10:47.316631"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.958231508731842, "timestamp": "2026-02-18T21:10:47.349500"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9588749408721924, "timestamp": "2026-02-18T21:10:47.393447"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9591217041015625, "timestamp": "2026-02-18T21:10:47.435000"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9589287638664246, "timestamp": "2026-02-18T21:10:47.474609"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9594285488128662, "timestamp": "2026-02-18T21:10:47.516162"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9584128260612488, "timestamp": "2026-02-18T21:10:47.549523"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9584455490112305, "timestamp": "2026-02-18T21:10:47.597469"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 7, "timestamp": "2026-02-18T21:12:06.479275", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.921973705291748, "timestamp": "2026-02-18T21:12:06.781897"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.937451958656311, "timestamp": "2026-02-18T21:12:06.815892"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9516160488128662, "timestamp": "2026-02-18T21:12:06.853385"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9509594440460205, "timestamp": "2026-02-18T21:12:06.883344"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9498522877693176, "timestamp": "2026-02-18T21:12:06.911599"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9384704232215881, "timestamp": "2026-02-18T21:12:06.940129"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9269009232521057, "timestamp": "2026-02-18T21:12:06.964447"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8747878074645996, "timestamp": "2026-02-18T21:12:06.999448"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8170576095581055, "timestamp": "2026-02-18T21:12:07.036830"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7445419430732727, "timestamp": "2026-02-18T21:12:07.065127"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.805005669593811, "timestamp": "2026-02-18T21:12:07.100278"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5663401484489441, "timestamp": "2026-02-18T21:12:07.141735"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7741115093231201, "timestamp": "2026-02-18T21:12:07.181382"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6906606554985046, "timestamp": "2026-02-18T21:12:07.226421"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8152903318405151, "timestamp": "2026-02-18T21:12:07.265449"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7957111597061157, "timestamp": "2026-02-18T21:12:07.298606"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7739389538764954, "timestamp": "2026-02-18T21:12:07.331930"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6953609585762024, "timestamp": "2026-02-18T21:12:07.353565"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6172304749488831, "timestamp": "2026-02-18T21:12:07.387532"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.689923107624054, "timestamp": "2026-02-18T21:12:07.415255"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8096114993095398, "timestamp": "2026-02-18T21:12:07.450887"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.828932523727417, "timestamp": "2026-02-18T21:12:07.471321"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8540313243865967, "timestamp": "2026-02-18T21:12:07.503326"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8754239082336426, "timestamp": "2026-02-18T21:12:07.536914"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8888089060783386, "timestamp": "2026-02-18T21:12:07.569868"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.854157567024231, "timestamp": "2026-02-18T21:12:07.604321"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8703369498252869, "timestamp": "2026-02-18T21:12:07.639628"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8681471347808838, "timestamp": "2026-02-18T21:12:07.665366"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8709123134613037, "timestamp": "2026-02-18T21:12:07.698583"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8591607213020325, "timestamp": "2026-02-18T21:12:07.733058"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8541784286499023, "timestamp": "2026-02-18T21:12:07.753853"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8376526832580566, "timestamp": "2026-02-18T21:12:07.786255"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8266918659210205, "timestamp": "2026-02-18T21:12:07.815389"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8254588842391968, "timestamp": "2026-02-18T21:12:07.854414"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.770528256893158, "timestamp": "2026-02-18T21:12:07.881921"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7042503952980042, "timestamp": "2026-02-18T21:12:07.936166"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6223433017730713, "timestamp": "2026-02-18T21:12:07.982063"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5818419456481934, "timestamp": "2026-02-18T21:12:08.018867"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6005078554153442, "timestamp": "2026-02-18T21:12:08.056898"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6345880627632141, "timestamp": "2026-02-18T21:12:08.108207"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5341346859931946, "timestamp": "2026-02-18T21:12:08.139378"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7099568843841553, "timestamp": "2026-02-18T21:12:08.183631"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7992237210273743, "timestamp": "2026-02-18T21:12:08.223459"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8201141357421875, "timestamp": "2026-02-18T21:12:08.266817"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8089061975479126, "timestamp": "2026-02-18T21:12:08.300735"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8113245368003845, "timestamp": "2026-02-18T21:12:08.335110"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7937476634979248, "timestamp": "2026-02-18T21:12:08.369807"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.770082950592041, "timestamp": "2026-02-18T21:12:08.400210"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7404607534408569, "timestamp": "2026-02-18T21:12:08.431989"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6791806221008301, "timestamp": "2026-02-18T21:12:08.465178"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7575567960739136, "timestamp": "2026-02-18T21:12:08.503926"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7551705241203308, "timestamp": "2026-02-18T21:12:08.543501"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8221666812896729, "timestamp": "2026-02-18T21:12:08.565007"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8385716676712036, "timestamp": "2026-02-18T21:12:08.603988"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8746389746665955, "timestamp": "2026-02-18T21:12:08.635706"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8697070479393005, "timestamp": "2026-02-18T21:12:08.664659"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9123969078063965, "timestamp": "2026-02-18T21:12:08.699825"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9373969435691833, "timestamp": "2026-02-18T21:12:08.720330"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9432788491249084, "timestamp": "2026-02-18T21:12:08.762792"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9326062798500061, "timestamp": "2026-02-18T21:12:08.796576"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9262852668762207, "timestamp": "2026-02-18T21:12:08.817508"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9332703351974487, "timestamp": "2026-02-18T21:12:08.864575"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9398857355117798, "timestamp": "2026-02-18T21:12:08.908590"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9207133054733276, "timestamp": "2026-02-18T21:12:08.940272"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9051972031593323, "timestamp": "2026-02-18T21:12:08.994836"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9140600562095642, "timestamp": "2026-02-18T21:12:09.049206"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.930101215839386, "timestamp": "2026-02-18T21:12:09.090698"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9347729682922363, "timestamp": "2026-02-18T21:12:09.125085"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9371975660324097, "timestamp": "2026-02-18T21:12:09.160180"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9373356103897095, "timestamp": "2026-02-18T21:12:09.196143"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9365860819816589, "timestamp": "2026-02-18T21:12:09.219824"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9341034889221191, "timestamp": "2026-02-18T21:12:09.253410"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9307265877723694, "timestamp": "2026-02-18T21:12:09.288865"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9197839498519897, "timestamp": "2026-02-18T21:12:09.319327"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9058951139450073, "timestamp": "2026-02-18T21:12:09.350328"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.892276406288147, "timestamp": "2026-02-18T21:12:09.369132"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8819152116775513, "timestamp": "2026-02-18T21:12:09.409789"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8810259103775024, "timestamp": "2026-02-18T21:12:09.440922"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.862873911857605, "timestamp": "2026-02-18T21:12:09.471659"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8555930256843567, "timestamp": "2026-02-18T21:12:09.499924"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8555135130882263, "timestamp": "2026-02-18T21:12:09.538628"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8723648190498352, "timestamp": "2026-02-18T21:12:09.565147"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8846021890640259, "timestamp": "2026-02-18T21:12:09.601831"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8830003142356873, "timestamp": "2026-02-18T21:12:09.633539"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8737524151802063, "timestamp": "2026-02-18T21:12:09.665644"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.882911205291748, "timestamp": "2026-02-18T21:12:09.696444"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8719569444656372, "timestamp": "2026-02-18T21:12:09.720014"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9046424031257629, "timestamp": "2026-02-18T21:12:09.755474"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9060527682304382, "timestamp": "2026-02-18T21:12:09.785917"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.902775764465332, "timestamp": "2026-02-18T21:12:09.815625"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.902944803237915, "timestamp": "2026-02-18T21:12:09.847898"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8981924057006836, "timestamp": "2026-02-18T21:12:09.871385"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9098402857780457, "timestamp": "2026-02-18T21:12:09.916034"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9274725317955017, "timestamp": "2026-02-18T21:12:09.952148"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9205875992774963, "timestamp": "2026-02-18T21:12:09.984155"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9161787629127502, "timestamp": "2026-02-18T21:12:10.014715"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.907077968120575, "timestamp": "2026-02-18T21:12:10.046348"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9081442356109619, "timestamp": "2026-02-18T21:12:10.066428"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9112277030944824, "timestamp": "2026-02-18T21:12:10.107355"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.909096896648407, "timestamp": "2026-02-18T21:12:10.137123"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9024466276168823, "timestamp": "2026-02-18T21:12:10.165708"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9017651677131653, "timestamp": "2026-02-18T21:12:10.197077"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8948820233345032, "timestamp": "2026-02-18T21:12:10.220706"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8918637037277222, "timestamp": "2026-02-18T21:12:10.255434"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8858721852302551, "timestamp": "2026-02-18T21:12:10.284528"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8838313817977905, "timestamp": "2026-02-18T21:12:10.314785"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8912743926048279, "timestamp": "2026-02-18T21:12:10.346119"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8841378688812256, "timestamp": "2026-02-18T21:12:10.366104"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8695436120033264, "timestamp": "2026-02-18T21:12:10.405099"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8483202457427979, "timestamp": "2026-02-18T21:12:10.435662"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8203661441802979, "timestamp": "2026-02-18T21:12:10.464534"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.805950939655304, "timestamp": "2026-02-18T21:12:10.494650"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7825157046318054, "timestamp": "2026-02-18T21:12:10.519270"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7301868796348572, "timestamp": "2026-02-18T21:12:10.554195"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6712782979011536, "timestamp": "2026-02-18T21:12:10.584664"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7473598718643188, "timestamp": "2026-02-18T21:12:10.614439"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8238676190376282, "timestamp": "2026-02-18T21:12:10.643991"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8121248483657837, "timestamp": "2026-02-18T21:12:10.668592"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7713150382041931, "timestamp": "2026-02-18T21:12:10.708377"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8609810471534729, "timestamp": "2026-02-18T21:12:10.737641"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9028679728507996, "timestamp": "2026-02-18T21:12:10.764563"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.915550708770752, "timestamp": "2026-02-18T21:12:10.796565"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9001210331916809, "timestamp": "2026-02-18T21:12:10.817303"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8289855718612671, "timestamp": "2026-02-18T21:12:10.861032"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7611158490180969, "timestamp": "2026-02-18T21:12:10.889309"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7059131860733032, "timestamp": "2026-02-18T21:12:10.916827"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5558254718780518, "timestamp": "2026-02-18T21:12:10.949346"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5474663376808167, "timestamp": "2026-02-18T21:12:10.968942"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5693450570106506, "timestamp": "2026-02-18T21:12:11.007392"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6479443907737732, "timestamp": "2026-02-18T21:12:11.036644"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5592448115348816, "timestamp": "2026-02-18T21:12:11.066352"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6901245713233948, "timestamp": "2026-02-18T21:12:11.095985"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7742619514465332, "timestamp": "2026-02-18T21:12:11.118845"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8144069910049438, "timestamp": "2026-02-18T21:12:11.161677"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8493495583534241, "timestamp": "2026-02-18T21:12:11.191560"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8886359930038452, "timestamp": "2026-02-18T21:12:11.218492"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9022507667541504, "timestamp": "2026-02-18T21:12:11.250212"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8799414038658142, "timestamp": "2026-02-18T21:12:11.281347"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8313130736351013, "timestamp": "2026-02-18T21:12:11.309756"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7748900651931763, "timestamp": "2026-02-18T21:12:11.338931"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8187454342842102, "timestamp": "2026-02-18T21:12:11.364529"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8086564540863037, "timestamp": "2026-02-18T21:12:11.397057"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8276422619819641, "timestamp": "2026-02-18T21:12:11.418996"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8502804636955261, "timestamp": "2026-02-18T21:12:11.452870"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8749170899391174, "timestamp": "2026-02-18T21:12:11.482690"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8873106241226196, "timestamp": "2026-02-18T21:12:11.512209"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-18T21:13:40.284569", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2822897732257843, "timestamp": "2026-02-18T21:13:40.747040"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2860623300075531, "timestamp": "2026-02-18T21:13:40.804971"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28695350885391235, "timestamp": "2026-02-18T21:13:40.846173"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2917853891849518, "timestamp": "2026-02-18T21:13:40.897357"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31078216433525085, "timestamp": "2026-02-18T21:13:40.948531"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3651297092437744, "timestamp": "2026-02-18T21:13:40.997674"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3832930028438568, "timestamp": "2026-02-18T21:13:41.050586"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5738956332206726, "timestamp": "2026-02-18T21:13:41.096507"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5514796376228333, "timestamp": "2026-02-18T21:13:41.130379"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5864916443824768, "timestamp": "2026-02-18T21:13:41.186482"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7925984263420105, "timestamp": "2026-02-18T21:13:41.230321"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7675600051879883, "timestamp": "2026-02-18T21:13:41.280270"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5194051861763, "timestamp": "2026-02-18T21:13:41.330301"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6077704429626465, "timestamp": "2026-02-18T21:13:41.380040"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7256221771240234, "timestamp": "2026-02-18T21:13:41.431153"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5082449913024902, "timestamp": "2026-02-18T21:13:41.496809"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7375337481498718, "timestamp": "2026-02-18T21:13:41.546829"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6676796078681946, "timestamp": "2026-02-18T21:13:41.580539"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5391881465911865, "timestamp": "2026-02-18T21:13:41.647436"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7788655757904053, "timestamp": "2026-02-18T21:13:41.680166"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8053416013717651, "timestamp": "2026-02-18T21:13:41.730534"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6725870966911316, "timestamp": "2026-02-18T21:13:41.795645"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6719361543655396, "timestamp": "2026-02-18T21:13:41.830237"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6496848464012146, "timestamp": "2026-02-18T21:13:41.883192"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6190347671508789, "timestamp": "2026-02-18T21:13:41.941542"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5360908508300781, "timestamp": "2026-02-18T21:13:41.993108"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.544823408126831, "timestamp": "2026-02-18T21:13:42.044011"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7473244071006775, "timestamp": "2026-02-18T21:13:42.091400"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.819200336933136, "timestamp": "2026-02-18T21:13:42.137120"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8736361265182495, "timestamp": "2026-02-18T21:13:42.187092"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8602080941200256, "timestamp": "2026-02-18T21:13:42.239345"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.818760871887207, "timestamp": "2026-02-18T21:13:42.287556"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6102854013442993, "timestamp": "2026-02-18T21:13:42.333839"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8462573289871216, "timestamp": "2026-02-18T21:13:42.383834"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8803611993789673, "timestamp": "2026-02-18T21:13:42.429738"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8355768322944641, "timestamp": "2026-02-18T21:13:42.463057"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8382731080055237, "timestamp": "2026-02-18T21:13:42.520518"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8571400046348572, "timestamp": "2026-02-18T21:13:42.568359"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8827341198921204, "timestamp": "2026-02-18T21:13:42.621149"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7968117594718933, "timestamp": "2026-02-18T21:13:42.663261"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3246159553527832, "timestamp": "2026-02-18T21:13:42.711792"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3051643669605255, "timestamp": "2026-02-18T21:13:42.746336"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3069765269756317, "timestamp": "2026-02-18T21:13:42.803046"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30684688687324524, "timestamp": "2026-02-18T21:13:42.847349"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30696341395378113, "timestamp": "2026-02-18T21:13:42.892033"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30555227398872375, "timestamp": "2026-02-18T21:13:42.943901"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30210861563682556, "timestamp": "2026-02-18T21:13:42.986044"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29885414242744446, "timestamp": "2026-02-18T21:13:43.036907"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3911930024623871, "timestamp": "2026-02-18T21:13:43.080998"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5301176905632019, "timestamp": "2026-02-18T21:13:43.113112"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5327989459037781, "timestamp": "2026-02-18T21:13:43.163685"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6321905851364136, "timestamp": "2026-02-18T21:13:43.213020"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6889218091964722, "timestamp": "2026-02-18T21:13:43.262875"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.899528980255127, "timestamp": "2026-02-18T21:13:43.310121"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9444977641105652, "timestamp": "2026-02-18T21:13:43.357974"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9342702627182007, "timestamp": "2026-02-18T21:13:43.411516"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9198639392852783, "timestamp": "2026-02-18T21:13:43.455039"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8521596193313599, "timestamp": "2026-02-18T21:13:43.497460"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8997990489006042, "timestamp": "2026-02-18T21:13:43.542146"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.865108072757721, "timestamp": "2026-02-18T21:13:43.585384"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8570922613143921, "timestamp": "2026-02-18T21:13:43.612955"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8919885158538818, "timestamp": "2026-02-18T21:13:43.670930"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8816270232200623, "timestamp": "2026-02-18T21:13:43.711948"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8577860593795776, "timestamp": "2026-02-18T21:13:43.762981"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8586333394050598, "timestamp": "2026-02-18T21:13:43.811818"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.47700706124305725, "timestamp": "2026-02-18T21:13:43.854693"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5390514731407166, "timestamp": "2026-02-18T21:13:43.901604"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3097500503063202, "timestamp": "2026-02-18T21:13:43.944909"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3150186240673065, "timestamp": "2026-02-18T21:13:43.993077"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4853500723838806, "timestamp": "2026-02-18T21:13:44.036157"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.507944643497467, "timestamp": "2026-02-18T21:13:44.078605"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8308078646659851, "timestamp": "2026-02-18T21:13:44.113765"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8878169059753418, "timestamp": "2026-02-18T21:13:44.172512"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9286859035491943, "timestamp": "2026-02-18T21:13:44.211738"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9550541043281555, "timestamp": "2026-02-18T21:13:44.260737"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9502474665641785, "timestamp": "2026-02-18T21:13:44.303497"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9173356294631958, "timestamp": "2026-02-18T21:13:44.348584"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8889659643173218, "timestamp": "2026-02-18T21:13:44.408548"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9399531483650208, "timestamp": "2026-02-18T21:13:44.469177"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9373497366905212, "timestamp": "2026-02-18T21:13:44.513745"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9465227723121643, "timestamp": "2026-02-18T21:13:44.562844"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9447242617607117, "timestamp": "2026-02-18T21:13:44.606605"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9106429815292358, "timestamp": "2026-02-18T21:13:44.650071"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9025751948356628, "timestamp": "2026-02-18T21:13:44.695229"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8636350631713867, "timestamp": "2026-02-18T21:13:44.740154"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.43365874886512756, "timestamp": "2026-02-18T21:13:44.786841"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4198569655418396, "timestamp": "2026-02-18T21:13:44.836418"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2950122356414795, "timestamp": "2026-02-18T21:13:44.882792"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2956312894821167, "timestamp": "2026-02-18T21:13:44.934819"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29802918434143066, "timestamp": "2026-02-18T21:13:44.982005"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29982030391693115, "timestamp": "2026-02-18T21:13:45.032903"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.299603670835495, "timestamp": "2026-02-18T21:13:45.062939"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.39019355177879333, "timestamp": "2026-02-18T21:13:45.119049"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5067124962806702, "timestamp": "2026-02-18T21:13:45.163345"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6468359231948853, "timestamp": "2026-02-18T21:13:45.212764"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8344454169273376, "timestamp": "2026-02-18T21:13:45.262937"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9280698299407959, "timestamp": "2026-02-18T21:13:45.310051"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.94864821434021, "timestamp": "2026-02-18T21:13:45.346862"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.95773845911026, "timestamp": "2026-02-18T21:13:45.395957"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9579607844352722, "timestamp": "2026-02-18T21:13:45.439110"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.955927848815918, "timestamp": "2026-02-18T21:13:45.481742"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9553855657577515, "timestamp": "2026-02-18T21:13:45.512868"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9510456919670105, "timestamp": "2026-02-18T21:13:45.563249"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9292967915534973, "timestamp": "2026-02-18T21:13:45.612937"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9045358896255493, "timestamp": "2026-02-18T21:13:45.650404"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8267580270767212, "timestamp": "2026-02-18T21:13:45.705934"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6811503767967224, "timestamp": "2026-02-18T21:13:45.749417"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5092578530311584, "timestamp": "2026-02-18T21:13:45.791882"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6968955397605896, "timestamp": "2026-02-18T21:13:45.834789"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.48433324694633484, "timestamp": "2026-02-18T21:13:45.862849"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5289785265922546, "timestamp": "2026-02-18T21:13:45.912846"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.48435455560684204, "timestamp": "2026-02-18T21:13:45.961224"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6811420917510986, "timestamp": "2026-02-18T21:13:46.005119"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7897633910179138, "timestamp": "2026-02-18T21:13:46.048570"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8135204315185547, "timestamp": "2026-02-18T21:13:46.099494"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8392117619514465, "timestamp": "2026-02-18T21:13:46.147259"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8920128345489502, "timestamp": "2026-02-18T21:13:46.194338"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.919526219367981, "timestamp": "2026-02-18T21:13:46.250140"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9357579946517944, "timestamp": "2026-02-18T21:13:46.296230"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8993939757347107, "timestamp": "2026-02-18T21:13:46.345178"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9526020288467407, "timestamp": "2026-02-18T21:13:46.391962"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9562059044837952, "timestamp": "2026-02-18T21:13:46.437026"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9579461812973022, "timestamp": "2026-02-18T21:13:46.489566"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9564340114593506, "timestamp": "2026-02-18T21:13:46.535894"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.954060971736908, "timestamp": "2026-02-18T21:13:46.579601"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9430861473083496, "timestamp": "2026-02-18T21:13:46.612855"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.916218101978302, "timestamp": "2026-02-18T21:13:46.663655"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.892341136932373, "timestamp": "2026-02-18T21:13:46.712560"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8178116083145142, "timestamp": "2026-02-18T21:13:46.758345"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.40101030468940735, "timestamp": "2026-02-18T21:13:46.800617"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3009544909000397, "timestamp": "2026-02-18T21:13:46.848579"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3310258090496063, "timestamp": "2026-02-18T21:13:46.891921"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2921527326107025, "timestamp": "2026-02-18T21:13:46.934916"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29449424147605896, "timestamp": "2026-02-18T21:13:46.978110"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2973892390727997, "timestamp": "2026-02-18T21:13:47.012774"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30061501264572144, "timestamp": "2026-02-18T21:13:47.062887"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3061247766017914, "timestamp": "2026-02-18T21:13:47.108637"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3105756640434265, "timestamp": "2026-02-18T21:13:47.150262"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.45774543285369873, "timestamp": "2026-02-18T21:13:47.201784"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5859963297843933, "timestamp": "2026-02-18T21:13:47.245327"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7084373235702515, "timestamp": "2026-02-18T21:13:47.287787"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7155529856681824, "timestamp": "2026-02-18T21:13:47.332823"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7462369799613953, "timestamp": "2026-02-18T21:13:47.381793"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8120012879371643, "timestamp": "2026-02-18T21:13:47.430801"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8517444729804993, "timestamp": "2026-02-18T21:13:47.475901"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8548685312271118, "timestamp": "2026-02-18T21:13:47.516389"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6312062740325928, "timestamp": "2026-02-18T21:13:47.562875"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30195707082748413, "timestamp": "2026-02-18T21:13:47.597179"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2819870710372925, "timestamp": "2026-02-18T21:13:47.650497"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2809385359287262, "timestamp": "2026-02-18T21:13:47.693989"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2953067719936371, "timestamp": "2026-02-18T21:13:47.742129"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.291046142578125, "timestamp": "2026-02-18T21:13:47.785163"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2943432033061981, "timestamp": "2026-02-18T21:13:47.828829"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2957037687301636, "timestamp": "2026-02-18T21:13:47.862861"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2928904891014099, "timestamp": "2026-02-18T21:13:47.913059"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31437644362449646, "timestamp": "2026-02-18T21:13:47.962771"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2989523112773895, "timestamp": "2026-02-18T21:13:48.008533"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4282672107219696, "timestamp": "2026-02-18T21:13:48.051807"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5269996523857117, "timestamp": "2026-02-18T21:13:48.095095"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6756966710090637, "timestamp": "2026-02-18T21:13:48.140863"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7759794592857361, "timestamp": "2026-02-18T21:13:48.185375"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8355642557144165, "timestamp": "2026-02-18T21:13:48.212812"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8856775164604187, "timestamp": "2026-02-18T21:13:48.262781"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9183295369148254, "timestamp": "2026-02-18T21:13:48.313781"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.920522153377533, "timestamp": "2026-02-18T21:13:48.362832"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8874624967575073, "timestamp": "2026-02-18T21:13:48.407041"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.866602897644043, "timestamp": "2026-02-18T21:13:48.452396"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8748184442520142, "timestamp": "2026-02-18T21:13:48.494842"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8973605632781982, "timestamp": "2026-02-18T21:13:48.538031"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.875089704990387, "timestamp": "2026-02-18T21:13:48.580710"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8565561175346375, "timestamp": "2026-02-18T21:13:48.612794"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8159461617469788, "timestamp": "2026-02-18T21:13:48.663284"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6995759606361389, "timestamp": "2026-02-18T21:13:48.711751"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4650832414627075, "timestamp": "2026-02-18T21:13:48.753559"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29075831174850464, "timestamp": "2026-02-18T21:13:48.800466"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30791470408439636, "timestamp": "2026-02-18T21:13:48.846084"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2864318788051605, "timestamp": "2026-02-18T21:13:48.889060"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2882061302661896, "timestamp": "2026-02-18T21:13:48.932811"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2892501652240753, "timestamp": "2026-02-18T21:13:48.981636"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2905752658843994, "timestamp": "2026-02-18T21:13:49.024108"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2903580367565155, "timestamp": "2026-02-18T21:13:49.061441"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29206299781799316, "timestamp": "2026-02-18T21:13:49.111448"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30078378319740295, "timestamp": "2026-02-18T21:13:49.149960"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3037901520729065, "timestamp": "2026-02-18T21:13:49.200601"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2985527813434601, "timestamp": "2026-02-18T21:13:49.242860"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2987401485443115, "timestamp": "2026-02-18T21:13:49.285952"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2976031005382538, "timestamp": "2026-02-18T21:13:49.333775"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29571622610092163, "timestamp": "2026-02-18T21:13:49.377469"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2907036244869232, "timestamp": "2026-02-18T21:13:49.419324"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2833127975463867, "timestamp": "2026-02-18T21:13:49.445932"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2826499044895172, "timestamp": "2026-02-18T21:13:49.503480"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2796158194541931, "timestamp": "2026-02-18T21:13:49.549424"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27832818031311035, "timestamp": "2026-02-18T21:13:49.597492"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2758515179157257, "timestamp": "2026-02-18T21:13:49.650095"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.270379900932312, "timestamp": "2026-02-18T21:13:49.694486"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.269752562046051, "timestamp": "2026-02-18T21:13:49.739006"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27121254801750183, "timestamp": "2026-02-18T21:13:49.782682"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2707800269126892, "timestamp": "2026-02-18T21:13:49.812764"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2720346748828888, "timestamp": "2026-02-18T21:13:49.862640"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2718539535999298, "timestamp": "2026-02-18T21:13:49.913352"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27462711930274963, "timestamp": "2026-02-18T21:13:49.958897"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2767952084541321, "timestamp": "2026-02-18T21:13:50.001843"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2782755196094513, "timestamp": "2026-02-18T21:13:50.048388"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27993834018707275, "timestamp": "2026-02-18T21:13:50.097667"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28102049231529236, "timestamp": "2026-02-18T21:13:50.149781"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2828217148780823, "timestamp": "2026-02-18T21:13:50.209270"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.283644437789917, "timestamp": "2026-02-18T21:13:50.265163"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2862154543399811, "timestamp": "2026-02-18T21:13:50.296122"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2888968884944916, "timestamp": "2026-02-18T21:13:50.350476"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31264957785606384, "timestamp": "2026-02-18T21:13:50.394386"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3155052661895752, "timestamp": "2026-02-18T21:13:50.447241"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31193074584007263, "timestamp": "2026-02-18T21:13:50.500596"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3102472424507141, "timestamp": "2026-02-18T21:13:50.543363"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3087502121925354, "timestamp": "2026-02-18T21:13:50.586562"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.310194730758667, "timestamp": "2026-02-18T21:13:50.629605"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3122221827507019, "timestamp": "2026-02-18T21:13:50.663173"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3094813823699951, "timestamp": "2026-02-18T21:13:50.712755"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3006746470928192, "timestamp": "2026-02-18T21:13:50.760592"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2996504306793213, "timestamp": "2026-02-18T21:13:50.802413"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2993886172771454, "timestamp": "2026-02-18T21:13:50.848322"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29780760407447815, "timestamp": "2026-02-18T21:13:50.891567"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2988070547580719, "timestamp": "2026-02-18T21:13:50.937042"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3003917634487152, "timestamp": "2026-02-18T21:13:50.980636"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29847538471221924, "timestamp": "2026-02-18T21:13:51.028483"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29180794954299927, "timestamp": "2026-02-18T21:13:51.062793"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2940256595611572, "timestamp": "2026-02-18T21:13:51.113747"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2955380976200104, "timestamp": "2026-02-18T21:13:51.163224"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29667532444000244, "timestamp": "2026-02-18T21:13:51.214033"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.298565536737442, "timestamp": "2026-02-18T21:13:51.262675"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3021102249622345, "timestamp": "2026-02-18T21:13:51.307626"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3066660463809967, "timestamp": "2026-02-18T21:13:51.350705"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30828210711479187, "timestamp": "2026-02-18T21:13:51.392368"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30752649903297424, "timestamp": "2026-02-18T21:13:51.434864"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3024536967277527, "timestamp": "2026-02-18T21:13:51.479978"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2977769374847412, "timestamp": "2026-02-18T21:13:51.536953"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2875465750694275, "timestamp": "2026-02-18T21:13:51.582779"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2824380099773407, "timestamp": "2026-02-18T21:13:51.614261"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.277817964553833, "timestamp": "2026-02-18T21:13:51.663296"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2737273871898651, "timestamp": "2026-02-18T21:13:51.712742"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27024298906326294, "timestamp": "2026-02-18T21:13:51.759611"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2673177421092987, "timestamp": "2026-02-18T21:13:51.802441"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2648048400878906, "timestamp": "2026-02-18T21:13:51.845976"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.26256200671195984, "timestamp": "2026-02-18T21:13:51.891753"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.26216641068458557, "timestamp": "2026-02-18T21:13:51.940872"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2627900540828705, "timestamp": "2026-02-18T21:13:51.983802"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.26612138748168945, "timestamp": "2026-02-18T21:13:52.014490"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2691705524921417, "timestamp": "2026-02-18T21:13:52.079949"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27266761660575867, "timestamp": "2026-02-18T21:13:52.129514"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2757629454135895, "timestamp": "2026-02-18T21:13:52.163439"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27963563799858093, "timestamp": "2026-02-18T21:13:52.214276"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2848353683948517, "timestamp": "2026-02-18T21:13:52.259842"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29055529832839966, "timestamp": "2026-02-18T21:13:52.301281"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2952336072921753, "timestamp": "2026-02-18T21:13:52.343877"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29954925179481506, "timestamp": "2026-02-18T21:13:52.387970"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3000529408454895, "timestamp": "2026-02-18T21:13:52.430866"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30205464363098145, "timestamp": "2026-02-18T21:13:52.462997"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3039861023426056, "timestamp": "2026-02-18T21:13:52.514263"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3054284155368805, "timestamp": "2026-02-18T21:13:52.561973"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30458778142929077, "timestamp": "2026-02-18T21:13:52.610672"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31411662697792053, "timestamp": "2026-02-18T21:13:52.649946"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.332669198513031, "timestamp": "2026-02-18T21:13:52.696406"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.33330097794532776, "timestamp": "2026-02-18T21:13:52.745097"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3345980644226074, "timestamp": "2026-02-18T21:13:52.787706"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3214914798736572, "timestamp": "2026-02-18T21:13:52.830925"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.32251471281051636, "timestamp": "2026-02-18T21:13:52.862760"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3322373330593109, "timestamp": "2026-02-18T21:13:52.920176"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3399297893047333, "timestamp": "2026-02-18T21:13:52.963648"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3374609351158142, "timestamp": "2026-02-18T21:13:53.011331"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3281300365924835, "timestamp": "2026-02-18T21:13:53.058144"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3269370496273041, "timestamp": "2026-02-18T21:13:53.096968"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3023296296596527, "timestamp": "2026-02-18T21:13:53.150440"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30252519249916077, "timestamp": "2026-02-18T21:13:53.197486"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30084505677223206, "timestamp": "2026-02-18T21:13:53.248309"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30063286423683167, "timestamp": "2026-02-18T21:13:53.291098"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2987554669380188, "timestamp": "2026-02-18T21:13:53.333709"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29389488697052, "timestamp": "2026-02-18T21:13:53.383838"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29419150948524475, "timestamp": "2026-02-18T21:13:53.427316"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2913855314254761, "timestamp": "2026-02-18T21:13:53.462792"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28885725140571594, "timestamp": "2026-02-18T21:13:53.515449"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28590893745422363, "timestamp": "2026-02-18T21:13:53.560749"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28452467918395996, "timestamp": "2026-02-18T21:13:53.602772"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2842591404914856, "timestamp": "2026-02-18T21:13:53.691648"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28469017148017883, "timestamp": "2026-02-18T21:13:53.740309"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28671517968177795, "timestamp": "2026-02-18T21:13:53.784713"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2874341309070587, "timestamp": "2026-02-18T21:13:53.827693"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28932926058769226, "timestamp": "2026-02-18T21:13:53.862747"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29071226716041565, "timestamp": "2026-02-18T21:13:53.915646"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29284748435020447, "timestamp": "2026-02-18T21:13:53.958516"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.296648770570755, "timestamp": "2026-02-18T21:13:54.000901"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29999685287475586, "timestamp": "2026-02-18T21:13:54.044170"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3056745231151581, "timestamp": "2026-02-18T21:13:54.087848"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.32659512758255005, "timestamp": "2026-02-18T21:13:54.131381"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.34733808040618896, "timestamp": "2026-02-18T21:13:54.163510"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.35486000776290894, "timestamp": "2026-02-18T21:13:54.216180"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3589636981487274, "timestamp": "2026-02-18T21:13:54.271734"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.34606024622917175, "timestamp": "2026-02-18T21:13:54.316386"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.346296101808548, "timestamp": "2026-02-18T21:13:54.360384"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3599526882171631, "timestamp": "2026-02-18T21:13:54.402899"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.352337121963501, "timestamp": "2026-02-18T21:13:54.447568"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3430194556713104, "timestamp": "2026-02-18T21:13:54.496081"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3349757194519043, "timestamp": "2026-02-18T21:13:54.543799"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.329163134098053, "timestamp": "2026-02-18T21:13:54.587841"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3261125981807709, "timestamp": "2026-02-18T21:13:54.631563"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3310733139514923, "timestamp": "2026-02-18T21:13:54.663374"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.345878005027771, "timestamp": "2026-02-18T21:13:54.717173"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.32711777091026306, "timestamp": "2026-02-18T21:13:54.766788"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3094049394130707, "timestamp": "2026-02-18T21:13:54.817247"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3039969503879547, "timestamp": "2026-02-18T21:13:54.862811"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31089943647384644, "timestamp": "2026-02-18T21:13:54.907679"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3817731440067291, "timestamp": "2026-02-18T21:13:54.946024"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3782460689544678, "timestamp": "2026-02-18T21:13:55.007471"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.38314130902290344, "timestamp": "2026-02-18T21:13:55.051477"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.39612051844596863, "timestamp": "2026-02-18T21:13:55.094092"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.41012057662010193, "timestamp": "2026-02-18T21:13:55.137688"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.45077648758888245, "timestamp": "2026-02-18T21:13:55.190753"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5265170335769653, "timestamp": "2026-02-18T21:13:55.239419"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2958943545818329, "timestamp": "2026-02-18T21:13:55.285332"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3014426827430725, "timestamp": "2026-02-18T21:13:55.337210"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.308191180229187, "timestamp": "2026-02-18T21:13:55.394908"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3107673227787018, "timestamp": "2026-02-18T21:13:55.445752"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3136146068572998, "timestamp": "2026-02-18T21:13:55.509674"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3093978762626648, "timestamp": "2026-02-18T21:13:55.561345"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4225941002368927, "timestamp": "2026-02-18T21:13:55.615188"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5635386109352112, "timestamp": "2026-02-18T21:13:55.702725"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7661792039871216, "timestamp": "2026-02-18T21:13:55.755899"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8646829724311829, "timestamp": "2026-02-18T21:13:55.812595"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9109224081039429, "timestamp": "2026-02-18T21:13:55.860695"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9221612811088562, "timestamp": "2026-02-18T21:13:55.908305"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9346022009849548, "timestamp": "2026-02-18T21:13:55.956644"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9113032817840576, "timestamp": "2026-02-18T21:13:56.002699"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8772695064544678, "timestamp": "2026-02-18T21:13:56.062624"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8848009705543518, "timestamp": "2026-02-18T21:13:56.111389"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9257404208183289, "timestamp": "2026-02-18T21:13:56.156574"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9403514266014099, "timestamp": "2026-02-18T21:13:56.203975"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9441556930541992, "timestamp": "2026-02-18T21:13:56.259272"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.95584636926651, "timestamp": "2026-02-18T21:13:56.311763"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9536346197128296, "timestamp": "2026-02-18T21:13:56.355505"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9508582949638367, "timestamp": "2026-02-18T21:13:56.404337"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9219486713409424, "timestamp": "2026-02-18T21:13:56.460767"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.873869776725769, "timestamp": "2026-02-18T21:13:56.508382"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8686032295227051, "timestamp": "2026-02-18T21:13:56.602029"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.892389178276062, "timestamp": "2026-02-18T21:13:56.651777"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.889376699924469, "timestamp": "2026-02-18T21:13:56.708915"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8929700255393982, "timestamp": "2026-02-18T21:13:56.756958"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9438012838363647, "timestamp": "2026-02-18T21:13:56.812443"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9493562579154968, "timestamp": "2026-02-18T21:13:56.860768"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9553458094596863, "timestamp": "2026-02-18T21:13:56.918295"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9551362991333008, "timestamp": "2026-02-18T21:13:56.962644"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9481064677238464, "timestamp": "2026-02-18T21:13:57.022366"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9218379259109497, "timestamp": "2026-02-18T21:13:57.095979"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9241814017295837, "timestamp": "2026-02-18T21:13:57.222143"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.927236020565033, "timestamp": "2026-02-18T21:13:57.282009"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.908354640007019, "timestamp": "2026-02-18T21:13:57.418138"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.855141818523407, "timestamp": "2026-02-18T21:13:57.477461"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5273638367652893, "timestamp": "2026-02-18T21:13:57.534741"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5689390897750854, "timestamp": "2026-02-18T21:13:57.606124"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8152928948402405, "timestamp": "2026-02-18T21:13:57.671511"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7049764394760132, "timestamp": "2026-02-18T21:13:57.735100"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4419531226158142, "timestamp": "2026-02-18T21:13:57.793061"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5489425659179688, "timestamp": "2026-02-18T21:13:57.848291"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6925399899482727, "timestamp": "2026-02-18T21:13:57.894214"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.885736346244812, "timestamp": "2026-02-18T21:13:57.939434"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.946010410785675, "timestamp": "2026-02-18T21:13:57.978317"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9523810148239136, "timestamp": "2026-02-18T21:13:58.018230"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.94221031665802, "timestamp": "2026-02-18T21:13:58.069336"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9102964997291565, "timestamp": "2026-02-18T21:13:58.117225"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8972378969192505, "timestamp": "2026-02-18T21:13:58.168014"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9418666362762451, "timestamp": "2026-02-18T21:13:58.222525"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.94338458776474, "timestamp": "2026-02-18T21:13:58.265590"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9173721671104431, "timestamp": "2026-02-18T21:13:58.318583"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9424552917480469, "timestamp": "2026-02-18T21:13:58.371050"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8969119191169739, "timestamp": "2026-02-18T21:13:58.429680"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9106910824775696, "timestamp": "2026-02-18T21:13:58.478430"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8783472776412964, "timestamp": "2026-02-18T21:13:58.518629"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7517940402030945, "timestamp": "2026-02-18T21:13:58.561859"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8690477013587952, "timestamp": "2026-02-18T21:13:58.877910"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8686441779136658, "timestamp": "2026-02-18T21:13:58.919217"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6005890965461731, "timestamp": "2026-02-18T21:13:58.967837"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6097015142440796, "timestamp": "2026-02-18T21:13:59.010725"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27946358919143677, "timestamp": "2026-02-18T21:13:59.046014"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28945863246917725, "timestamp": "2026-02-18T21:13:59.103671"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2820492088794708, "timestamp": "2026-02-18T21:13:59.137511"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3124293386936188, "timestamp": "2026-02-18T21:13:59.192980"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.38049185276031494, "timestamp": "2026-02-18T21:13:59.233735"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5254470109939575, "timestamp": "2026-02-18T21:13:59.286927"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7671011090278625, "timestamp": "2026-02-18T21:13:59.324321"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8801397085189819, "timestamp": "2026-02-18T21:13:59.465106"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9267734885215759, "timestamp": "2026-02-18T21:13:59.495946"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9194965958595276, "timestamp": "2026-02-18T21:13:59.548690"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9147650003433228, "timestamp": "2026-02-18T21:13:59.586299"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8814008831977844, "timestamp": "2026-02-18T21:13:59.639899"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8382928371429443, "timestamp": "2026-02-18T21:13:59.696417"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6030512452125549, "timestamp": "2026-02-18T21:13:59.844585"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3066871464252472, "timestamp": "2026-02-18T21:13:59.881812"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28148186206817627, "timestamp": "2026-02-18T21:13:59.934890"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2788996398448944, "timestamp": "2026-02-18T21:13:59.980088"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2767055928707123, "timestamp": "2026-02-18T21:14:00.026106"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2738942801952362, "timestamp": "2026-02-18T21:14:00.066722"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.33907926082611084, "timestamp": "2026-02-18T21:14:00.104616"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.32775744795799255, "timestamp": "2026-02-18T21:14:00.149487"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3288832902908325, "timestamp": "2026-02-18T21:14:00.196100"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.34827858209609985, "timestamp": "2026-02-18T21:14:00.233667"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.36465194821357727, "timestamp": "2026-02-18T21:14:00.287096"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4024435877799988, "timestamp": "2026-02-18T21:14:00.336637"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4589013159275055, "timestamp": "2026-02-18T21:14:00.372582"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5638976693153381, "timestamp": "2026-02-18T21:14:00.457863"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31731098890304565, "timestamp": "2026-02-18T21:14:00.535243"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3567342162132263, "timestamp": "2026-02-18T21:14:00.578364"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3106350898742676, "timestamp": "2026-02-18T21:14:00.621720"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27786001563072205, "timestamp": "2026-02-18T21:14:00.666096"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2726719379425049, "timestamp": "2026-02-18T21:14:00.776264"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27054765820503235, "timestamp": "2026-02-18T21:14:00.821701"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2832850217819214, "timestamp": "2026-02-18T21:14:00.867772"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2983032166957855, "timestamp": "2026-02-18T21:14:00.912333"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3009544909000397, "timestamp": "2026-02-18T21:14:00.949765"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30403125286102295, "timestamp": "2026-02-18T21:14:01.003091"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2786133289337158, "timestamp": "2026-02-18T21:14:01.046523"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2786276936531067, "timestamp": "2026-02-18T21:14:01.095937"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2783769965171814, "timestamp": "2026-02-18T21:14:01.134139"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2843521237373352, "timestamp": "2026-02-18T21:14:01.189228"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2765647768974304, "timestamp": "2026-02-18T21:14:01.227495"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27336442470550537, "timestamp": "2026-02-18T21:14:01.264936"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28067564964294434, "timestamp": "2026-02-18T21:14:01.317724"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27829089760780334, "timestamp": "2026-02-18T21:14:01.356040"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27150315046310425, "timestamp": "2026-02-18T21:14:01.393103"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2742251455783844, "timestamp": "2026-02-18T21:14:01.450458"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2823738753795624, "timestamp": "2026-02-18T21:14:01.484122"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2686222791671753, "timestamp": "2026-02-18T21:14:01.537950"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27417588233947754, "timestamp": "2026-02-18T21:14:01.585350"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2784252166748047, "timestamp": "2026-02-18T21:14:01.627252"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.271170437335968, "timestamp": "2026-02-18T21:14:01.673974"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2722455561161041, "timestamp": "2026-02-18T21:14:01.716727"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2765296697616577, "timestamp": "2026-02-18T21:14:01.754425"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2788051962852478, "timestamp": "2026-02-18T21:14:01.791785"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28579050302505493, "timestamp": "2026-02-18T21:14:01.845171"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2826624810695648, "timestamp": "2026-02-18T21:14:01.929820"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28578731417655945, "timestamp": "2026-02-18T21:14:01.973156"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2826022505760193, "timestamp": "2026-02-18T21:14:02.006573"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2797912657260895, "timestamp": "2026-02-18T21:14:02.061253"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2786904573440552, "timestamp": "2026-02-18T21:14:02.099826"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2788389325141907, "timestamp": "2026-02-18T21:14:02.149949"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3002075254917145, "timestamp": "2026-02-18T21:14:02.195975"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2985731065273285, "timestamp": "2026-02-18T21:14:02.233654"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.32718297839164734, "timestamp": "2026-02-18T21:14:02.277802"}
+{"type": "INTRUSION", "zone": "mmu_football_field", "zone_name": "MMU Football Field - Center", "persons_count": 1, "timestamp": "2026-02-19T02:03:15.898118", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2822897732257843, "timestamp": "2026-02-19T02:03:16.854979"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2860623300075531, "timestamp": "2026-02-19T02:03:16.911030"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28695350885391235, "timestamp": "2026-02-19T02:03:16.951904"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2917853891849518, "timestamp": "2026-02-19T02:03:17.039261"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31078216433525085, "timestamp": "2026-02-19T02:03:17.098519"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3651297092437744, "timestamp": "2026-02-19T02:03:17.152983"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3832930028438568, "timestamp": "2026-02-19T02:03:17.214424"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5738956332206726, "timestamp": "2026-02-19T02:03:17.268771"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5514796376228333, "timestamp": "2026-02-19T02:03:17.324552"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5864916443824768, "timestamp": "2026-02-19T02:03:17.388037"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7925984263420105, "timestamp": "2026-02-19T02:03:17.436073"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7675600051879883, "timestamp": "2026-02-19T02:03:17.486109"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5194051861763, "timestamp": "2026-02-19T02:03:17.527662"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6077704429626465, "timestamp": "2026-02-19T02:03:17.581292"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7256221771240234, "timestamp": "2026-02-19T02:03:17.665964"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5082449913024902, "timestamp": "2026-02-19T02:03:17.729515"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7375337481498718, "timestamp": "2026-02-19T02:03:17.777731"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6676796078681946, "timestamp": "2026-02-19T02:03:17.832201"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5391881465911865, "timestamp": "2026-02-19T02:03:17.881902"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7788655757904053, "timestamp": "2026-02-19T02:03:17.933977"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8053416013717651, "timestamp": "2026-02-19T02:03:17.989858"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6725870966911316, "timestamp": "2026-02-19T02:03:18.048883"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6719361543655396, "timestamp": "2026-02-19T02:03:18.100537"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6496848464012146, "timestamp": "2026-02-19T02:03:18.143470"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6190347671508789, "timestamp": "2026-02-19T02:03:18.187701"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5360908508300781, "timestamp": "2026-02-19T02:03:18.251189"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.544823408126831, "timestamp": "2026-02-19T02:03:18.338475"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7473244071006775, "timestamp": "2026-02-19T02:03:18.396826"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.819200336933136, "timestamp": "2026-02-19T02:03:18.448172"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8736361265182495, "timestamp": "2026-02-19T02:03:18.493736"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8602080941200256, "timestamp": "2026-02-19T02:03:18.543644"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.818760871887207, "timestamp": "2026-02-19T02:03:18.601475"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6102854013442993, "timestamp": "2026-02-19T02:03:18.643455"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8462573289871216, "timestamp": "2026-02-19T02:03:18.692398"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8803611993789673, "timestamp": "2026-02-19T02:03:18.741797"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8355768322944641, "timestamp": "2026-02-19T02:03:18.798746"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8382731080055237, "timestamp": "2026-02-19T02:03:18.850198"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8571400046348572, "timestamp": "2026-02-19T02:03:18.883705"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8827341198921204, "timestamp": "2026-02-19T02:03:18.935693"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7968117594718933, "timestamp": "2026-02-19T02:03:18.973824"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3246159553527832, "timestamp": "2026-02-19T02:03:19.027270"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3051643669605255, "timestamp": "2026-02-19T02:03:19.080457"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3069765269756317, "timestamp": "2026-02-19T02:03:19.143385"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30684688687324524, "timestamp": "2026-02-19T02:03:19.179979"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30696341395378113, "timestamp": "2026-02-19T02:03:19.238364"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30555227398872375, "timestamp": "2026-02-19T02:03:19.286646"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30210861563682556, "timestamp": "2026-02-19T02:03:19.334333"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29885414242744446, "timestamp": "2026-02-19T02:03:19.387626"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3911930024623871, "timestamp": "2026-02-19T02:03:19.419118"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5301176905632019, "timestamp": "2026-02-19T02:03:19.473819"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5327989459037781, "timestamp": "2026-02-19T02:03:19.511991"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6321905851364136, "timestamp": "2026-02-19T02:03:19.569186"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6889218091964722, "timestamp": "2026-02-19T02:03:19.614611"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.899528980255127, "timestamp": "2026-02-19T02:03:19.661291"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9444977641105652, "timestamp": "2026-02-19T02:03:19.716260"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9342702627182007, "timestamp": "2026-02-19T02:03:19.764464"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9198639392852783, "timestamp": "2026-02-19T02:03:19.810985"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8521596193313599, "timestamp": "2026-02-19T02:03:19.851404"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8997990489006042, "timestamp": "2026-02-19T02:03:19.899022"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.865108072757721, "timestamp": "2026-02-19T02:03:19.952483"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8570922613143921, "timestamp": "2026-02-19T02:03:19.990953"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8919885158538818, "timestamp": "2026-02-19T02:03:20.045056"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8816270232200623, "timestamp": "2026-02-19T02:03:20.092612"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8577860593795776, "timestamp": "2026-02-19T02:03:20.136327"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8586333394050598, "timestamp": "2026-02-19T02:03:20.174612"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.47700706124305725, "timestamp": "2026-02-19T02:03:20.235431"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5390514731407166, "timestamp": "2026-02-19T02:03:20.281784"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3097500503063202, "timestamp": "2026-02-19T02:03:20.339599"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3150186240673065, "timestamp": "2026-02-19T02:03:20.388672"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4853500723838806, "timestamp": "2026-02-19T02:03:20.436387"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.507944643497467, "timestamp": "2026-02-19T02:03:20.474904"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8308078646659851, "timestamp": "2026-02-19T02:03:20.528889"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8878169059753418, "timestamp": "2026-02-19T02:03:20.583566"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9286859035491943, "timestamp": "2026-02-19T02:03:20.620662"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9550541043281555, "timestamp": "2026-02-19T02:03:20.680278"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9502474665641785, "timestamp": "2026-02-19T02:03:20.727446"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9173356294631958, "timestamp": "2026-02-19T02:03:20.765971"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8889659643173218, "timestamp": "2026-02-19T02:03:20.820132"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9399531483650208, "timestamp": "2026-02-19T02:03:20.880878"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9373497366905212, "timestamp": "2026-02-19T02:03:20.928572"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9465227723121643, "timestamp": "2026-02-19T02:03:20.969444"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9447242617607117, "timestamp": "2026-02-19T02:03:21.012091"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9106429815292358, "timestamp": "2026-02-19T02:03:21.062754"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9025751948356628, "timestamp": "2026-02-19T02:03:21.113729"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8636350631713867, "timestamp": "2026-02-19T02:03:21.159878"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.43365874886512756, "timestamp": "2026-02-19T02:03:21.211951"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4198569655418396, "timestamp": "2026-02-19T02:03:21.261763"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2950122356414795, "timestamp": "2026-02-19T02:03:21.305854"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2956312894821167, "timestamp": "2026-02-19T02:03:21.358437"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29802918434143066, "timestamp": "2026-02-19T02:03:21.404592"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29982030391693115, "timestamp": "2026-02-19T02:03:21.449247"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.299603670835495, "timestamp": "2026-02-19T02:03:21.502949"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.39019355177879333, "timestamp": "2026-02-19T02:03:21.541925"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5067124962806702, "timestamp": "2026-02-19T02:03:21.604703"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6468359231948853, "timestamp": "2026-02-19T02:03:21.653770"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8344454169273376, "timestamp": "2026-02-19T02:03:21.691227"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9280698299407959, "timestamp": "2026-02-19T02:03:21.729611"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.94864821434021, "timestamp": "2026-02-19T02:03:21.782939"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.95773845911026, "timestamp": "2026-02-19T02:03:21.842760"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9579607844352722, "timestamp": "2026-02-19T02:03:21.882304"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.955927848815918, "timestamp": "2026-02-19T02:03:21.935502"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9553855657577515, "timestamp": "2026-02-19T02:03:21.980869"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9510456919670105, "timestamp": "2026-02-19T02:03:22.031119"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9292967915534973, "timestamp": "2026-02-19T02:03:22.076716"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9045358896255493, "timestamp": "2026-02-19T02:03:22.126292"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8267580270767212, "timestamp": "2026-02-19T02:03:22.164327"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6811503767967224, "timestamp": "2026-02-19T02:03:22.226192"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5092578530311584, "timestamp": "2026-02-19T02:03:22.271500"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6968955397605896, "timestamp": "2026-02-19T02:03:22.325675"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.48433324694633484, "timestamp": "2026-02-19T02:03:22.380851"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5289785265922546, "timestamp": "2026-02-19T02:03:22.425177"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.48435455560684204, "timestamp": "2026-02-19T02:03:22.470427"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6811420917510986, "timestamp": "2026-02-19T02:03:22.515075"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7897633910179138, "timestamp": "2026-02-19T02:03:22.566976"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8135204315185547, "timestamp": "2026-02-19T02:03:22.620407"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8392117619514465, "timestamp": "2026-02-19T02:03:22.674042"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8920128345489502, "timestamp": "2026-02-19T02:03:22.712683"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.919526219367981, "timestamp": "2026-02-19T02:03:22.766059"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9357579946517944, "timestamp": "2026-02-19T02:03:22.812642"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8993939757347107, "timestamp": "2026-02-19T02:03:22.864346"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9526020288467407, "timestamp": "2026-02-19T02:03:22.903629"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9562059044837952, "timestamp": "2026-02-19T02:03:22.957882"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9579461812973022, "timestamp": "2026-02-19T02:03:23.004611"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9564340114593506, "timestamp": "2026-02-19T02:03:23.047794"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.954060971736908, "timestamp": "2026-02-19T02:03:23.086106"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9430861473083496, "timestamp": "2026-02-19T02:03:23.157903"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.916218101978302, "timestamp": "2026-02-19T02:03:23.225051"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.892341136932373, "timestamp": "2026-02-19T02:03:23.275231"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8178116083145142, "timestamp": "2026-02-19T02:03:23.331012"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.40101030468940735, "timestamp": "2026-02-19T02:03:23.388099"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3009544909000397, "timestamp": "2026-02-19T02:03:23.433411"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3310258090496063, "timestamp": "2026-02-19T02:03:23.473661"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2921527326107025, "timestamp": "2026-02-19T02:03:23.533889"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29449424147605896, "timestamp": "2026-02-19T02:03:23.571623"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2973892390727997, "timestamp": "2026-02-19T02:03:23.626100"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30061501264572144, "timestamp": "2026-02-19T02:03:23.671593"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3061247766017914, "timestamp": "2026-02-19T02:03:23.713022"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3105756640434265, "timestamp": "2026-02-19T02:03:23.763763"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.45774543285369873, "timestamp": "2026-02-19T02:03:23.816433"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5859963297843933, "timestamp": "2026-02-19T02:03:23.867466"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7084373235702515, "timestamp": "2026-02-19T02:03:23.913068"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7155529856681824, "timestamp": "2026-02-19T02:03:23.957079"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7462369799613953, "timestamp": "2026-02-19T02:03:24.006663"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8120012879371643, "timestamp": "2026-02-19T02:03:24.058923"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8517444729804993, "timestamp": "2026-02-19T02:03:24.098057"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8548685312271118, "timestamp": "2026-02-19T02:03:24.156475"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6312062740325928, "timestamp": "2026-02-19T02:03:24.213283"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30195707082748413, "timestamp": "2026-02-19T02:03:24.263221"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2819870710372925, "timestamp": "2026-02-19T02:03:24.301311"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2809385359287262, "timestamp": "2026-02-19T02:03:24.361202"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2953067719936371, "timestamp": "2026-02-19T02:03:24.493012"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.291046142578125, "timestamp": "2026-02-19T02:03:24.535420"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2943432033061981, "timestamp": "2026-02-19T02:03:24.603015"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2957037687301636, "timestamp": "2026-02-19T02:03:24.648216"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2928904891014099, "timestamp": "2026-02-19T02:03:24.686493"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31437644362449646, "timestamp": "2026-02-19T02:03:24.812044"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2989523112773895, "timestamp": "2026-02-19T02:03:24.885551"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4282672107219696, "timestamp": "2026-02-19T02:03:24.935126"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.5269996523857117, "timestamp": "2026-02-19T02:03:24.997308"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6756966710090637, "timestamp": "2026-02-19T02:03:25.057137"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.7759794592857361, "timestamp": "2026-02-19T02:03:25.110252"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8355642557144165, "timestamp": "2026-02-19T02:03:25.156782"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8856775164604187, "timestamp": "2026-02-19T02:03:25.213285"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.9183295369148254, "timestamp": "2026-02-19T02:03:25.257224"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.920522153377533, "timestamp": "2026-02-19T02:03:25.309773"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8874624967575073, "timestamp": "2026-02-19T02:03:25.365223"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.866602897644043, "timestamp": "2026-02-19T02:03:25.412988"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8748184442520142, "timestamp": "2026-02-19T02:03:25.493400"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8973605632781982, "timestamp": "2026-02-19T02:03:25.540422"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.875089704990387, "timestamp": "2026-02-19T02:03:25.594625"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8565561175346375, "timestamp": "2026-02-19T02:03:25.635307"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.8159461617469788, "timestamp": "2026-02-19T02:03:25.691802"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.6995759606361389, "timestamp": "2026-02-19T02:03:25.734463"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.4650832414627075, "timestamp": "2026-02-19T02:03:25.787858"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29075831174850464, "timestamp": "2026-02-19T02:03:25.851863"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30791470408439636, "timestamp": "2026-02-19T02:03:25.899086"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2864318788051605, "timestamp": "2026-02-19T02:03:25.949819"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2882061302661896, "timestamp": "2026-02-19T02:03:25.997836"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2892501652240753, "timestamp": "2026-02-19T02:03:26.043077"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2905752658843994, "timestamp": "2026-02-19T02:03:26.091030"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2903580367565155, "timestamp": "2026-02-19T02:03:26.136076"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29206299781799316, "timestamp": "2026-02-19T02:03:26.192558"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30078378319740295, "timestamp": "2026-02-19T02:03:26.236364"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3037901520729065, "timestamp": "2026-02-19T02:03:26.275386"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2985527813434601, "timestamp": "2026-02-19T02:03:26.331646"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2987401485443115, "timestamp": "2026-02-19T02:03:26.390150"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2976031005382538, "timestamp": "2026-02-19T02:03:26.438199"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29571622610092163, "timestamp": "2026-02-19T02:03:26.472822"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2907036244869232, "timestamp": "2026-02-19T02:03:26.530396"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2833127975463867, "timestamp": "2026-02-19T02:03:26.579615"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2826499044895172, "timestamp": "2026-02-19T02:03:26.625190"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2796158194541931, "timestamp": "2026-02-19T02:03:26.671548"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27832818031311035, "timestamp": "2026-02-19T02:03:26.719177"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2758515179157257, "timestamp": "2026-02-19T02:03:26.769416"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.270379900932312, "timestamp": "2026-02-19T02:03:26.814573"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.269752562046051, "timestamp": "2026-02-19T02:03:26.874770"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27121254801750183, "timestamp": "2026-02-19T02:03:26.914539"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2707800269126892, "timestamp": "2026-02-19T02:03:26.953206"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2720346748828888, "timestamp": "2026-02-19T02:03:27.022877"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2718539535999298, "timestamp": "2026-02-19T02:03:27.066184"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27462711930274963, "timestamp": "2026-02-19T02:03:27.105454"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2767952084541321, "timestamp": "2026-02-19T02:03:27.152617"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2782755196094513, "timestamp": "2026-02-19T02:03:27.190780"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27993834018707275, "timestamp": "2026-02-19T02:03:27.247639"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.28102049231529236, "timestamp": "2026-02-19T02:03:27.285289"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2828217148780823, "timestamp": "2026-02-19T02:03:27.344551"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.283644437789917, "timestamp": "2026-02-19T02:03:27.382386"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2862154543399811, "timestamp": "2026-02-19T02:03:27.436774"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2888968884944916, "timestamp": "2026-02-19T02:03:27.490836"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31264957785606384, "timestamp": "2026-02-19T02:03:27.529344"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3155052661895752, "timestamp": "2026-02-19T02:03:27.590957"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.31193074584007263, "timestamp": "2026-02-19T02:03:27.637240"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3102472424507141, "timestamp": "2026-02-19T02:03:27.691485"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3087502121925354, "timestamp": "2026-02-19T02:03:27.729325"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.310194730758667, "timestamp": "2026-02-19T02:03:27.787474"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3122221827507019, "timestamp": "2026-02-19T02:03:27.820291"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3094813823699951, "timestamp": "2026-02-19T02:03:27.881255"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3006746470928192, "timestamp": "2026-02-19T02:03:27.919555"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2996504306793213, "timestamp": "2026-02-19T02:03:27.973034"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2993886172771454, "timestamp": "2026-02-19T02:03:28.020328"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29780760407447815, "timestamp": "2026-02-19T02:03:28.064819"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2988070547580719, "timestamp": "2026-02-19T02:03:28.102836"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3003917634487152, "timestamp": "2026-02-19T02:03:28.156519"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29847538471221924, "timestamp": "2026-02-19T02:03:28.207089"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29180794954299927, "timestamp": "2026-02-19T02:03:28.249047"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2940256595611572, "timestamp": "2026-02-19T02:03:28.303005"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2955380976200104, "timestamp": "2026-02-19T02:03:28.351193"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29667532444000244, "timestamp": "2026-02-19T02:03:28.398641"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.298565536737442, "timestamp": "2026-02-19T02:03:28.435363"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3021102249622345, "timestamp": "2026-02-19T02:03:28.488379"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3066660463809967, "timestamp": "2026-02-19T02:03:28.541472"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30828210711479187, "timestamp": "2026-02-19T02:03:28.579597"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.30752649903297424, "timestamp": "2026-02-19T02:03:28.617788"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.3024536967277527, "timestamp": "2026-02-19T02:03:28.671056"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2977769374847412, "timestamp": "2026-02-19T02:03:28.725464"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2875465750694275, "timestamp": "2026-02-19T02:03:28.763442"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2824380099773407, "timestamp": "2026-02-19T02:03:28.816853"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.277817964553833, "timestamp": "2026-02-19T02:03:28.875362"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2737273871898651, "timestamp": "2026-02-19T02:03:28.916791"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27024298906326294, "timestamp": "2026-02-19T02:03:28.952543"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2673177421092987, "timestamp": "2026-02-19T02:03:29.016857"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2648048400878906, "timestamp": "2026-02-19T02:03:29.060136"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.26256200671195984, "timestamp": "2026-02-19T02:03:29.098517"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.26216641068458557, "timestamp": "2026-02-19T02:03:29.144480"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2627900540828705, "timestamp": "2026-02-19T02:03:29.199337"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.26612138748168945, "timestamp": "2026-02-19T02:03:29.237473"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2691705524921417, "timestamp": "2026-02-19T02:03:29.291371"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27266761660575867, "timestamp": "2026-02-19T02:03:29.329938"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2757629454135895, "timestamp": "2026-02-19T02:03:29.390307"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.27963563799858093, "timestamp": "2026-02-19T02:03:29.430707"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.2848353683948517, "timestamp": "2026-02-19T02:03:29.485710"}
+{"type": "FIGHTING_DETECTED", "confidence": 0.29055529832839966, "timestamp": "2026-02-19T02:03:29.534096"}

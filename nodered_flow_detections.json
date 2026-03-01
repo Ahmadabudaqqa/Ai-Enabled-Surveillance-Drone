@@ -1,0 +1,124 @@
+[
+    {
+        "id": "flow_surveillance",
+        "type": "tab",
+        "label": "Surveillance API",
+        "disabled": false,
+        "info": "Exposes YOLO detections via HTTP for PC integration"
+    },
+    {
+        "id": "http_detections_in",
+        "type": "http in",
+        "z": "flow_surveillance",
+        "name": "GET /detections",
+        "url": "/detections",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 100,
+        "wires": [["get_latest_detections"]]
+    },
+    {
+        "id": "get_latest_detections",
+        "type": "function",
+        "z": "flow_surveillance",
+        "name": "Get Latest Detections",
+        "func": "// Return the latest detections stored in global context\n// Try multiple possible variable names\nlet detections = global.get('latestDetections') || global.get('latest_detections') || flow.get('latestDetections') || [];\nmsg.payload = detections;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 100,
+        "wires": [["http_response"]]
+    },
+    {
+        "id": "http_response",
+        "type": "http response",
+        "z": "flow_surveillance",
+        "name": "JSON Response",
+        "statusCode": "200",
+        "headers": {
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"
+        },
+        "x": 560,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "model_output_link",
+        "type": "comment",
+        "z": "flow_surveillance",
+        "name": "Connect your YOLO model output here ↓",
+        "info": "Link from your existing model node to the 'Store Detections' node below",
+        "x": 200,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "store_detections",
+        "type": "function",
+        "z": "flow_surveillance",
+        "name": "Store Detections",
+        "func": "// Parse YOLO detections and store for HTTP access\nlet detections = [];\n\nif (msg.payload && msg.payload.boxes) {\n    // Standard YOLO output format\n    for (let box of msg.payload.boxes) {\n        detections.push({\n            class: box.class || 'person',\n            x1: Math.round(box.x1 || box.xmin || 0),\n            y1: Math.round(box.y1 || box.ymin || 0),\n            x2: Math.round(box.x2 || box.xmax || 0),\n            y2: Math.round(box.y2 || box.ymax || 0),\n            confidence: box.confidence || box.score || 0.5,\n            timestamp: Date.now()\n        });\n    }\n} else if (Array.isArray(msg.payload)) {\n    // Array format\n    for (let det of msg.payload) {\n        if (det.class === 'person' || det.label === 'person' || det.name === 'person') {\n            detections.push({\n                class: 'person',\n                x1: Math.round(det.x1 || det.xmin || det.bbox?.[0] || 0),\n                y1: Math.round(det.y1 || det.ymin || det.bbox?.[1] || 0),\n                x2: Math.round(det.x2 || det.xmax || det.bbox?.[2] || 0),\n                y2: Math.round(det.y2 || det.ymax || det.bbox?.[3] || 0),\n                confidence: det.confidence || det.score || 0.5,\n                timestamp: Date.now()\n            });\n        }\n    }\n}\n\n// Store in flow context\nflow.set('latest_detections', detections);\n\n// Pass through for debugging\nmsg.stored_count = detections.length;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 170,
+        "y": 240,
+        "wires": [["debug_stored"]]
+    },
+    {
+        "id": "debug_stored",
+        "type": "debug",
+        "z": "flow_surveillance",
+        "name": "Detections Stored",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "stored_count",
+        "targetType": "msg",
+        "statusVal": "stored_count",
+        "statusType": "auto",
+        "x": 390,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "inject_test",
+        "type": "inject",
+        "z": "flow_surveillance",
+        "name": "Test Detection",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"boxes\":[{\"class\":\"person\",\"x1\":100,\"y1\":100,\"x2\":300,\"y2\":400,\"confidence\":0.95}]}",
+        "payloadType": "json",
+        "x": 130,
+        "y": 320,
+        "wires": [["store_detections"]]
+    },
+    {
+        "id": "comment_instructions",
+        "type": "comment",
+        "z": "flow_surveillance",
+        "name": "📋 SETUP INSTRUCTIONS",
+        "info": "## How to connect:\n\n1. Find your existing YOLO model node in Node-RED\n2. Draw a wire from the model output to 'Store Detections' node\n3. Deploy the flow\n4. Test by visiting: http://192.168.42.1:1880/detections\n\n## Your PC will now receive detections via HTTP!\n\nThe Python code calls this endpoint to get bounding boxes,\nso it doesn't need to run YOLO locally.",
+        "x": 170,
+        "y": 40,
+        "wires": []
+    }
+]

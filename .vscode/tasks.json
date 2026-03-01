@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run presentation_fighting_detection - Copy.py on video file",
+			"type": "shell",
+			"command": "python \"presentation_fighting_detection - Copy.py\"",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "test"
+		},
+		{
+			"label": "Run presentation_fighting_detection - Copy.py with venv python",
+			"type": "shell",
+			"command": "\".venv/Scripts/python.exe\" \"presentation_fighting_detection - Copy.py\"",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "test"
+		}
+	]
+}

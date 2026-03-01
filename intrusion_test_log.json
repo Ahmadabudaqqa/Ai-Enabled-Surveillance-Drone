@@ -1,0 +1,69 @@
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:30.524872", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:31.457075", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:32.152730", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:32.738946", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T20:52:32.838958", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:34.077078", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T20:52:34.417908", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:37.014396", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:37.081801", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:37.314887", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:37.403970", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:37.475922", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:37.607820", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:37.843293", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:39.585940", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:42.735467", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:42.931443", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:42.991061", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:43.056371", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:44.547673", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:45.055477", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:45.868366", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:45.964987", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:46.068931", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:46.255049", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:46.327316", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:46.488470", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:46.562891", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:46.743785", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:46.825592", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:47.065444", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:47.215225", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:47.275768", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:47.585520", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:47.656799", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:47.713843", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:47.775119", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:48.790392", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:48.926593", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:49.076266", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:49.208318", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:50.934205", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T20:52:50.992591", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:52.149695", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:52.244987", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:53.001654", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:53.185122", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:53.841135", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:54.001211", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:52:57.345725", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:52:57.401640", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:53:00.060101", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:53:00.113499", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:53:00.957073", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:53:01.272754", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:53:01.328261", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:53:01.871062", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:53:01.924820", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:53:02.319786", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T20:53:02.372014", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T20:57:59.864598", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:01:07.852960", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:01:29.433638", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:01:29.809724", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:01:30.899410", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 2, "timestamp": "2026-02-12T21:01:31.590667", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:01:31.947523", "action": "STOP_MONITORING"}
+{"type": "INTRUSION", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "persons_count": 1, "timestamp": "2026-02-12T21:01:32.311272", "action": "TRIGGER_FIGHTING_DETECTION"}
+{"type": "INTRUSION_ENDED", "zone": "football_field_middle", "zone_name": "Football Field - Middle Area", "timestamp": "2026-02-12T21:01:33.308195", "action": "STOP_MONITORING"}
